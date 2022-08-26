@@ -5,11 +5,16 @@ Python educational repository so you can go from a baby to Dundee (pun intended)
 ## Contents
 
 1. [Lessons](#lessons)
+1. [Assignments](#assi)
 1. [Background](#background)
 
 ## Lessons
 
 You can go to `lessons/` or click the following link [Lessons](./lessons/).
+
+## Assignments
+
+You can go to `assignments/` or click the following link [Assignments](./assignments/).
 
 ## Background
 
